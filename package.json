@@ -1,0 +1,34 @@
+{
+  "name": "lalit-text-to-ascii",
+  "version": "1.0.0",
+  "description": "Input Text - A string of text to turn into ASCII Art.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run tta"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalitmax/lalit-text-to-ascii.git"
+  },
+  "keywords": [
+    "Input",
+    "Text",
+    "-",
+    "A",
+    "string",
+    "of",
+    "text",
+    "ASCII",
+    "Art."
+  ],
+  "author": "Lalit Max",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Lalitmax/lalit-text-to-ascii/issues"
+  },
+  "homepage": "https://github.com/Lalitmax/lalit-text-to-ascii#readme",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}

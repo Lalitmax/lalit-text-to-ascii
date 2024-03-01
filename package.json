@@ -1,6 +1,6 @@
 {
   "name": "lalit-text-to-ascii",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Input Text - A string of text to turn into ASCII Art.",
   "main": "index.js",
   "type":"module",

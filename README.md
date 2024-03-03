@@ -10,14 +10,23 @@ To install the `lalit-text-to-ascii` package, use the following npm command:
 npm install lalit-text-to-ascii
 Usage
 javascript
-Copy code
-// Import the toAscii function from lalit-text-to-ascii
+
+// How to import
 import { toAscii } from 'lalit-text-to-ascii';
 
 // Example usage
-toAscii("lalit").then((result) => {
+toAscii("Lalit Max").then((result) => {
     console.log(result);
 });
+
+
+Output
+
+ _          _ _ _     __  __            
+ | |    __ _| (_) |_  |  \/  | __ ___  __
+ | |   / _` | | | __| | |\/| |/ _` \ \/ /
+ | |__| (_| | | | |_  | |  | | (_| |>  < 
+ |_____\__,_|_|_|\__| |_|  |_|\__,_/_/\_\
 
 
 # Author

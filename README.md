@@ -1,7 +1,3 @@
-Here's an improved version of the `README.md` for your GitHub repository, formatted for clarity, professionalism, and readability:
-
----
-
 # Lalit Text to ASCII
 
 A **Node.js** library to convert a string of text into ASCII Art.
